@@ -8,8 +8,10 @@ Since 2019 I've been concentrating on the [@coststoexpect API](https://api.costs
 
 Costs to Expect is a service we are building which includes an Open Source REST API, a commercial app and a long-term social experiment tracking the cost to raise our children, have a look if that sounds interesting.
 
-- 🔭 I’m currently working on the [@coststoexpect API](https://api.costs-to-expect.com)
-- 🔭 I’m currently working on the [@coststoexpect App](https://app.costs-to-expect.com)
+- 🔭 I'm working on a freelance project.
+- 🔭 I'm working on a Maths Quizz app for my eight and two year old.
+- 🔭 I will soon be working on the [@coststoexpect API](https://api.costs-to-expect.com) again!.
+- 🔭 I will soon be working on the [@coststoexpect App](https://app.costs-to-expect.com) again!.
 - 🔭 I’m planing on working on [PHP Quill renderer](https://github.com/deanblackborough/php-quill-renderer) this year
 - 📫 How to reach me: My email is on my profile
 - 🤔 I’m looking for help with the [@coststoexpect API](https://api.costs-to-expect.com) API
