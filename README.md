@@ -11,7 +11,7 @@ Costs to Expect is a service we are building which includes an Open Source REST 
 - 🔭 I'm working on a freelance project.
 - 🔭 I'm working on the [@coststoexpect API](https://api.costs-to-expect.com) again!.
 - 🔭 I'm working on the [@coststoexpect App](https://app.costs-to-expect.com) again!.
-- 🔭 I'm working on a Maths Quizz app for my eight and two year old.
+- 🔭 I'm working on a C++ Maths Quizz app for my eight and two year old.
 - 🔭 I’m planing to work on [PHP Quill renderer](https://github.com/deanblackborough/php-quill-renderer) this year
 - 📫 How to reach me: My email is on my profile
 - 🤔 I’m looking for help with the [@coststoexpect API](https://api.costs-to-expect.com) API
