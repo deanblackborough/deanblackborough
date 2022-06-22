@@ -10,7 +10,7 @@ Costs to Expect is a service we are building which includes an Open Source REST 
 
 - 🔭 I'm working on a freelance project.
 - 🔭 I'm working on the [@coststoexpect API](https://api.costs-to-expect.com), [@coststoexpect App](https://app.costs-to-expect.com) and the rest of the service.
-- 🌱 FOr fun, I'm building a C++ [2D Game Engine Quiz](https://github.com/deanblackborough/Prune2D) to build games with my kids and learn C++.
+- 🌱 FOr fun, I'm building a C++ [2D Game Engine](https://github.com/deanblackborough/Prune2D) to build games with my kids and learn C++.
 - 🌱 For fun, I'm building a C++ [Maths Quiz](https://github.com/deanblackborough/MathsQuiz) app for my eight and three year old and using it to learn C++.
 - 🔭 I’m planing to work on [PHP Quill renderer](https://github.com/deanblackborough/php-quill-renderer) later this year
 - 📫 How to reach me: My email is on my profile
