@@ -4,7 +4,7 @@ My name is Dean Blackborough (that shouldn't be a suprise as it is my username).
 
 I've been a web developer forever, mostly PHP, however I dabble with lots of other languages, most recently I've starting using C++ in anger and love it!
 
-Since 2019 I've been concentrating on [Costs to Expect](https://api.costs-to-expect.com), a Business idea I'd like to get off the ground.
+Since 2019 I've been concentrating on [Costs to Expect](https://api.costs-to-expect.com), a business I'd like to get off the ground.
 
 Costs to Expect is a service we are building which includes an Open Source REST API, an expense app, budgeting apps a long-term social experiment tracking the cost to raise our children, a Yahtzee/Yatzy game scorer and other things, have a look if any of that sounds interesting.
 
