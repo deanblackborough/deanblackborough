@@ -17,7 +17,7 @@ I build tools, systems, and maintainable foundations — currently focused on C+
 - Game dev foundations (2D, systems-first)
 
 ### Other Work
-- Budget Pro / Budget → part of the Costs to Expect ecosystem
+- [Budget Pro](https://budget-pro.costs-to-expect.com) / [Budget](https://budget.costs-to-expect.com) → part of the Costs to Expect ecosystem
 - Experimental data pipeline tool (in progress)
 
 📫 How to reach me: My email is on my profile
