@@ -2,9 +2,13 @@
 
 My name is Dean Blackborough
 
-- Tech Lead (30+ years experience)
-- Currently focused on Costs to Expect, C++ tooling, editors, and game development pipelines
-- Background in building production systems and maintainable architectures
+## About
+
+I build tools, systems, and maintainable foundations — currently focused on C++ tooling, editors, and game development pipelines.
+
+- Tech Lead with 30+ years experience
+- Background in building production systems and long-lived architectures
+- Creator of Costs to Expect (production SaaS ecosystem)
 
 ### Key Projects
 - Costs to Expect → “Production SaaS system with real users and long-term evolution”
