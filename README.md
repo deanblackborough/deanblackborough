@@ -1,8 +1,8 @@
-### Hi 👋
+## Hi 👋
 
 My name is Dean Blackborough
 
-## About
+### About
 
 I build tools, systems, and maintainable foundations — currently focused on C++ tooling, editors, and game development pipelines.
 
