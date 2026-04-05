@@ -8,8 +8,8 @@ My name is Dean Blackborough
 
 ### Key Projects
 - Costs to Expect → “Production SaaS system with real users and long-term evolution”
-- Prune → “C++ editor/tooling foundation focused on clarity and explicit architecture”
-- Godot → “State-driven 2D platformer starter with clean gameplay architecture”
+- [Prune](https://github.com/deanblackborough/Prune) → “C++ editor/tooling foundation focused on clarity and explicit architecture”
+- [Godot 2D Platformer Starter](https://github.com/deanblackborough/godot-platformer) → “State-driven 2D platformer starter with clean gameplay architecture”
 
 ### Focus Areas
 - Tooling and editor UX
